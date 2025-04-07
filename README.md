@@ -21,7 +21,7 @@ This project is a responsive **Sidebar Navigation Menu** created using **HTML5**
 - CSS3
 - Font Awesome (v6.4)
 - Google Fonts (Poppins)
-- 
+
 ---
 
 ## 💬 Final Note
